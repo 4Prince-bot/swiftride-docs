@@ -10,3 +10,5 @@ Urban commuters
 - Real-time ride booking
 - Driver tracking
 - Cashless payments
+- Add rating system
+- Add ride history
