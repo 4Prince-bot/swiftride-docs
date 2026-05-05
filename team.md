@@ -1,6 +1,7 @@
+
 Roles:
 - A manages repo
-- B contributes 
+- B contributes and reviews 
 # Team Members
 
 - Account A: Owner (Primary Machine)
